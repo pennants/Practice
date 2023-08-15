@@ -1,5 +1,7 @@
 #include <stdio.h>
 int mian(){
-
+int a = 0 ; 
+int a-1
+int c = 3
 }
 
